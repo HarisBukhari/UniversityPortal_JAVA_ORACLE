@@ -1,0 +1,2 @@
+# UniversityPortal_JAVA_ORACLE
+In this project, I have created a system to manage the allotment of room, media, timeslot, courses, and instructors through the Help of Oracle Functions, Triggers, Conditions, Constraints, References on Java GUI. Students can view their classrooms and Instructor. Instructors can add and remove students from their schedules. Admin can make changes in the whole system.
